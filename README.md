@@ -28,6 +28,7 @@ We also have a pro version of this product which bundles even more pages and com
 | -                        | ✔ Complete Users Flows                                       |
 
 ## Quick start
+- | NodeJS 13.7.0 | Yarn 1.21.1 | TypeScript 3.7.5 
 
 - [Download from Github](https://github.com/devias-io/react-material-dashboard/archive/master.zip) or [Download from Devias](https://devias.io/products/material-react-dashboard) or clone the repo: `git clone https://github.com/devias-io/react-material-dashboard.git`
 
